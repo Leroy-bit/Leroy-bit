@@ -8,7 +8,7 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/leroybit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leroybit" /></a></p><br><br>
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=leroy-bit&show_icons=true&theme=dark&hide_border=true&locale=en" alt="leroy-bit" /></p>
+<br>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=leroy-bit&show_icons=true&theme=dark&hide_border=true&locale=en" alt="leroy-bit" />
 
 
