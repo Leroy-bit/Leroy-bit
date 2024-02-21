@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Leroy</h1>
 <h3 align="center">Just hobbyist from Ukraine</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=leroy-bit&label=Profile%20views&color=0e75b6&style=flat" alt="leroy-bit" /> </p>
+
+- ⚡ Fun fact **I took the 3rd place in Telegram Mini App contest: https://contest.com/mini-apps/entry4585**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
@@ -11,6 +15,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/leroybit"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leroybit" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leroy-bit&show_icons=true&locale=en" alt="leroy-bit" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leroy-bit&show_icons=true&theme=dark&locale=en" alt="leroy-bit" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leroy-bit&" alt="leroy-bit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leroy-bit&theme=dark" alt="leroy-bit" /></p>
+
